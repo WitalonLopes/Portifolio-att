@@ -1,7 +1,7 @@
 # 💻 Portfólio — Witalon Lopes
 
 Bem-vindo ao meu portfólio pessoal!  
-Este projeto foi desenvolvido com **Vite + React + Tailwind CSS**, com o objetivo de apresentar minhas habilidades, projetos e experiências como **Desenvolvedor Front-end**, com foco em **UI/UX**, **integrações com APIs RESTful** e **banco de dados**.
+Este projeto foi desenvolvido com **Vite + React + Tailwind CSS**, com o objetivo de apresentar minhas habilidades, projetos e experiências como **Desenvolvedor Front-end**, e **UI/UX**.
 
 ---
 
@@ -11,7 +11,6 @@ Este projeto foi desenvolvido com **Vite + React + Tailwind CSS**, com o objetiv
 - ⚛️ **React.js** — criação de interfaces dinâmicas e componentizadas  
 - 🎨 **Tailwind CSS** — estilização moderna e responsiva com classes utilitárias  
 - 🧩 **GSAP** — animações suaves e interativas  
-- 🔗 **APIs RESTful** — integração e consumo de dados externos  
 - 🧠 **React Hooks e Props** — gerenciamento eficiente de estado e componentes  
 
 ---
@@ -20,7 +19,7 @@ Este projeto foi desenvolvido com **Vite + React + Tailwind CSS**, com o objetiv
 
 - 🖥️ Sessão de **Apresentação** com informações sobre mim e minhas especialidades  
 - ⚙️ **Serviços**: Desenvolvimento Web, Integrações com APIs RESTful e Banco de Dados  
-- 💡 **Projetos Recentes** com imagens, descrições e links  
+- 💡 **Projetos Recentes** com imagens, descrições e deploys  
 - 🎬 Animações com **GSAP**, suaves e responsivas  
 - 📱 Layout totalmente **responsivo**, adaptado para dispositivos móveis  
 - 🌗 Design moderno e minimalista, com foco na experiência do usuário  
@@ -85,11 +84,11 @@ Além disso, aplico conceitos de UI/UX e boas práticas de design para garantir 
 
 📫 Contato
 
-📧 Email: witalonlopes.dev@gmail.com
+📧 Email: witalonlopez@gmail.com
 
-💼 LinkedIn: linkedin.com/in/witalonlopes
+💼 LinkedIn: https://www.linkedin.com/in/witalon-teixeira-lopes/
 
-📷 GitHub: github.com/witalonlopes
+📷 GitHub: https://github.com/WitalonLopes
 
 🏁 Licença
 
