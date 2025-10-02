@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react'
-import Logo from '../assets/images/logo8.svg';
+import Logo from '/images/logo8.svg';
 import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";
 import { Link } from 'react-router-dom';
